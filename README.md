@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌎 Visit [my website](julienchien.com) (once I fix it)
+- 🌎 Visit [my website](https://julienchien.com) (once I fix it)
 
 - 🔭 I’m currently working at [Modern Treasury](https://www.moderntreasury.com/)
 
