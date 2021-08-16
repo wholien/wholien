@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Modern Treasury](https://www.moderntreasury.com/)
 
-- 🌱 I’m currently learning Ruby + Rails and getting better at frontend things (Javascript (React) / CSS)
+- 🌱 I’m currently learning Ruby + Rails and getting better at frontend things (Javascript (React) / TypeScript / CSS)
 
 - 📫 How to reach me: jchien17@cmc.edu
 
