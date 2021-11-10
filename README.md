@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: http://pronoun.is/he
 
-[![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=wholien&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=wholien&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Julien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wholien)](https://github.com/anuraghazra/github-readme-stats)
 
