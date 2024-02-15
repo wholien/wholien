@@ -10,9 +10,6 @@
 
 - 🐦 Follow me on Twitter [@julienchien](https://twitter.com/julienchien)
 
-- 😄 Pronouns: http://pronoun.is/he
-
-
 <!--
 **wholien/wholien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
