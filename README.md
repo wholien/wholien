@@ -2,7 +2,7 @@
 
 - 🌎 Visit [my website](https://julienchien.com)
 
-- 🔭 I’m currently working at [Modern Treasury](https://www.moderntreasury.com/)
+- 🔭 I’m currently working at [Comity](https://www.comity.ai/)
 
 - 📫 How to reach me: jchien17@cmc.edu
 
